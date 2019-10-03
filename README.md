@@ -4,6 +4,6 @@ A meeting scheduler which takes as input booking requests in specific format and
 
 Execution from command line:
 
-- Make `src/main/java/` your current working directory
+- Make `src/main/java` your current working directory
 - Compile
 - Run Scheduler class with args
